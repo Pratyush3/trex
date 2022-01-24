@@ -1,2 +1,2 @@
 # trex
-Creatin trex game in  p5 editor
+Creating trex game in  p5 editor
